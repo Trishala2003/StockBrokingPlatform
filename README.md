@@ -62,7 +62,7 @@ Watchlists
 ---
 
 📂 Project Structure
-
+```
 StockBrokingPlatform/
 │
 ├── src/
@@ -87,7 +87,7 @@ StockBrokingPlatform/
 │
 ├── pom.xml                            # Maven project file with all dependencies
 └── README.md                          # Project overview and documentation
-
+```
 
 
 ---
